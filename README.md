@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub.
 
 This line is for learning a "pull" command.
+
+I am learning how to push branch to GitHub.
